@@ -47,12 +47,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.logo img {
-    height: 40px;
-    width: auto;
-}
 
 .nav a {
     color: var(--secondary);
@@ -404,3 +398,4 @@ body {
         display: none; /* Simple mobile hide for now, or hamburger if requested */
     }
 }
+
